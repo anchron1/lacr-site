@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://louisianacourtreporter.com/sitemap.xml
